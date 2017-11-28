@@ -1,0 +1,17 @@
+{
+  "name": "hapi-sequelize-boilerplate",
+  "version": "1.0.0",
+  "description": "Simple boilerplate for hapi and sequelize with sequelize-cli",
+  "main": "index.js",
+  "repository": "https://github.com/pawel-miczka/hapi-sequelize-boilerplate.git",
+  "author": "Paweł Miczka <pawel.miczka@spj.com.pl>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "hapi": "^17.1.1",
+    "sequelize": "3.30.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
