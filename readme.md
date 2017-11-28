@@ -17,3 +17,24 @@ Using NPM
 ```
 npm install
 ```
+
+## Scripts
+
+* Run in development mode with hot reload
+```
+yarn dev
+```
+```
+npm run dev
+```
+
+* Run in production mode
+```
+yarn start
+```
+```
+npm run start
+```
+
+## Last words
+Happy coding :)
