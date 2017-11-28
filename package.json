@@ -6,6 +6,10 @@
   "repository": "https://github.com/pawel-miczka/hapi-sequelize-boilerplate.git",
   "author": "Paweł Miczka <pawel.miczka@spj.com.pl>",
   "license": "MIT",
+  "scripts": {
+    "start": "NODE_ENV=production node index.js",
+    "dev": "NODE_ENV=development nodemon index.js"
+  },
   "dependencies": {
     "dotenv": "^4.0.0",
     "hapi": "^17.1.1",
